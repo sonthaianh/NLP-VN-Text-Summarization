@@ -76,7 +76,7 @@ print("Kết quả tiền xử lý ghép từ có nghĩa:\n", ketquaXL_gheptu, "
 ketquaXL_tachcau = tach_van_ban_thanh_cau(ketquaXL_gheptu)
 print("Kết quả tiền xử lý tách câu:\n", ketquaXL_tachcau, "\n")
 
-# kết quả tóm tắt với số lượng câu mong muốn, ở đây đang để là 5 câu
+# kết quả tóm tắt với số lượng câu mong muốn, ở đây đang để là 5 câu.
 tom_tat = XL_output(tao_tom_tat(ketquaXL_tachcau, 5))
 print("Tóm tắt:\n", tom_tat)
 
