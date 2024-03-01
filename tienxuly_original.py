@@ -38,7 +38,7 @@ print(ketquaXL)
 print("\n")
 
 
-## ghép từ có nghĩa
+## ghép từ có nghĩa.
 ketquaXL_gheptu = tien_xu_ly_ghep_tu_co_nghia(ketquaXL)
 print("ket qua tien xu ly ghep tu co nghia: \n")
 print(ketquaXL_gheptu)
